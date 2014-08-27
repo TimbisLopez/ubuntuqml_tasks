@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RememberBag
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/RememberBag/RememberBag.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
